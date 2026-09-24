@@ -6,8 +6,26 @@
 公式ラボ手順 (英語) は次のページにあります。手順書の各ラボにも、対応する公式手順へのリンクを
 冒頭に記載しています。
 
-- [MS-4018 Lab Exercises (公式・英語)](https://microsoftlearning.github.io/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/)
+- [MS-4018 Lab Exercises (公式・英語・最新)](https://microsoftlearning.github.io/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/)
 - 公式手順の日本語訳 (全手順・持ち帰り用): [official-ja/](official-ja/)
+- [公式の日本語リポジトリ (2026 年 5 月版)](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot.ja-jp)
+
+### 公式の日本語版 (5 月版) との違い
+
+ラボ環境からリンクされるのは公式の日本語版で、2026 年 5 月時点の内容です。
+その後に英語版の演習が入れ替わっており、次の 6 つの機能が 5 月版に入っていません。
+
+Idea Coach / Writing Coach / チャネルの要約 / Facilitator / Python / Analyst エージェント
+
+| ラボ | 5 月版 | 現行 (本手順書) |
+| --- | --- | --- |
+| Lab 1 Copilot Chat | 演習 6 本。演習 5 は FAQ 作成、演習 6 は Outlook で感謝メール | 演習 6 本。演習 5 は Copilot ページ保存、演習 6 は Copilot Chat でお礼の下書き |
+| Lab 2 PowerPoint | 演習 5 本。Word 文書から作成、スライド追加、画像挿入、テキスト編集、整理 | 演習 5 本すべて別内容。Idea Coach、複数参照元、スピーカー ノート、グラフ確認、コーチング |
+| Lab 3 Word | 演習 3 本。下書き、表に変換、要約 | 演習 4 本。下書き、セクションの書き直し、表に変換、Writing Coach |
+| Lab 4 コラボレーション | 演習 2 本。メッセージ作成、Outlook で会議設定 | 演習 4 本。チャネル メッセージ、スレッド要約、Facilitator、Outlook で会議準備 |
+| Lab 5 Excel | 演習 6 本。演習 4-6 は合計計算、分析情報の生成、チームへ送信 | 演習 6 本。演習 4-6 は Python、Analyst エージェント、洞察の生成 |
+
+講義で説明する機能と揃うのは現行版です。本手順書を優先してください。
 
 ## 出典とライセンス
 
