@@ -3,11 +3,12 @@
 この手順書は、MS-4018「Draft, analyze, and present with Microsoft 365 Copilot」のラボを、
 受講者各自の Microsoft 365 環境で安全に実施するための日本語ガイドです。
 
-公式ラボ手順 (英語) は次のページにあります。手順書の各ラボにも、対応する公式手順へのリンクを
-冒頭に記載しています。
+**仮想環境 (画面の右側にラボの指示が出ている) を使う方は、画面右側の指示で進めてください。**
+
+各ラボは 1 つのファイルで完結します。授業内で行う必須パートと、講義後に行う発展パート
+(公式の全手順) が同じファイルに並びます。
 
 - [MS-4018 Lab Exercises (公式・英語・最新)](https://microsoftlearning.github.io/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/)
-- 公式手順の日本語訳 (全手順・持ち帰り用): [official-ja/](official-ja/)
 - [公式の日本語リポジトリ (2026 年 5 月版)](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot.ja-jp)
 
 ### 公式の日本語版 (5 月版) との違い
@@ -25,7 +26,8 @@ Idea Coach / Writing Coach / チャネルの要約 / Facilitator / Python / Anal
 | Lab 4 コラボレーション | 演習 2 本。メッセージ作成、Outlook で会議設定 | 演習 4 本。チャネル メッセージ、スレッド要約、Facilitator、Outlook で会議準備 |
 | Lab 5 Excel | 演習 6 本。演習 4-6 は合計計算、分析情報の生成、チームへ送信 | 演習 6 本。演習 4-6 は Python、Analyst エージェント、洞察の生成 |
 
-講義で説明する機能と揃うのは現行版です。本手順書を優先してください。
+講義で説明する機能と揃うのは現行版です。自分の環境で進める方は本手順書を使ってください。
+仮想環境を使う方は、画面右側の 5 月版の指示で進めてください。混ぜて読むと手順が食い違います。
 
 ## 出典とライセンス
 
