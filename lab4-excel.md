@@ -4,7 +4,7 @@
 - 必須パートの目安: 20 分
 - サンプルファイル: `Contoso Chai Tea market trends.xlsx` を OneDrive へ配置します
   ([README の共通の事前準備](README.md#共通の事前準備)を参照)。
-  [ファイルのダウンロード](https://go.microsoft.com/fwlink/?linkid=2268822)
+  [ファイルのダウンロード](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/raw/master/Allfiles/Contoso%20Chai%20Tea%20market%20trends.xlsx)
 
 ## シナリオ
 

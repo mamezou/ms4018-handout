@@ -66,10 +66,14 @@ Idea Coach / Writing Coach / チャネルの要約 / Facilitator / Python / Anal
 「ラボ：資料作成」と「ラボ：Excel」では、公式が提供するサンプルファイルを使います。
 事前に OneDrive へアップロードしてください (公式手順: [Lab 0 setup](https://microsoftlearning.github.io/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/Instructions/Labs/Lab_00_setup.html))。
 
+公式手順の `go.microsoft.com/fwlink` のリンクは `raw.githubusercontent.com` へ転送されます。
+組織のネットワークで塞がれている場合に開けないため、MS-4018 公式リポジトリ内の同じファイルへ
+差し替えています。
+
 1. 次の 3 ファイルをダウンロードします。
-   - [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126)
-   - [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
-   - [Contoso Chai Tea market trends.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
+   - [Promotion Plan for Chai Tea in Latin America.docx](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/raw/master/Allfiles/Promotion%20Plan%20for%20Chai%20Tea%20in%20Latin%20America%20(2).docx)
+   - [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/raw/master/Allfiles/Market%20Analysis%20Report%20for%20Mystic%20Spice%20Premium%20Chai%20Tea.docx)
+   - [Contoso Chai Tea market trends.xlsx](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/raw/master/Allfiles/Contoso%20Chai%20Tea%20market%20trends.xlsx)
 2. ブラウザーで OneDrive を開き、職場または学校アカウントでサインインします。
 3. 「作成またはアップロード」→「ファイルのアップロード」で 3 ファイルをアップロードします。
 4. アップロードした各ファイルを OneDrive 上で一度開きます。Copilot がファイルを

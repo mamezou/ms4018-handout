@@ -25,7 +25,7 @@ lab:
 
 このラボでは、次のファイルを参照する Microsoft Copilot 用のプロンプトを作成します。先にファイルをダウンロードし、自分の OneDrive フォルダーに保存してください。
 
-[Contoso Chai Tea market trends.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
+[Contoso Chai Tea market trends.xlsx](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/raw/master/Allfiles/Contoso%20Chai%20Tea%20market%20trends.xlsx)
 
 #### 演習 1 - データを探索する
 

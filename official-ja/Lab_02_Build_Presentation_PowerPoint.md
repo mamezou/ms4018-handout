@@ -23,8 +23,8 @@ lab:
 
 このラボでは、次のファイルを参照するプロンプトを作成します。先に両方のファイルをダウンロードし、自分の OneDrive フォルダーに保存してください。
 
-- [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126)
-- [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
+- [Promotion Plan for Chai Tea in Latin America.docx](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/raw/master/Allfiles/Promotion%20Plan%20for%20Chai%20Tea%20in%20Latin%20America%20(2).docx)
+- [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/raw/master/Allfiles/Market%20Analysis%20Report%20for%20Mystic%20Spice%20Premium%20Chai%20Tea.docx)
 
 > [!NOTE]
 > どちらかのファイルがまだ OneDrive に同期されていない場合は、数分待ってからファイル選択画面を更新してください。待っている間に計画の手順を始められます。

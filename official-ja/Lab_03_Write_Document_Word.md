@@ -20,7 +20,7 @@ lab:
 
 このラボでは、次のファイルを参照するプロンプトを作成します。先にファイルをダウンロードし、自分の OneDrive フォルダーに保存してください。
 
-[Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
+[Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/raw/master/Allfiles/Market%20Analysis%20Report%20for%20Mystic%20Spice%20Premium%20Chai%20Tea.docx)
 
 #### 演習 1 - コンテンツを下書きする
 
