@@ -1,3 +1,5 @@
+> **このリポジトリは 2026-11-18 に [training-demos の azure/ms4018/handout](https://github.com/mamezou/training-demos/tree/main/azure/ms4018/handout) へ移しました。** これからの更新は移動先で行います。このリポジトリはアーカイブして、更新しません。
+
 # MS-4018 ラボ手順書 (受講者向け)
 
 この手順書は、MS-4018「Draft, analyze, and present with Microsoft 365 Copilot」のラボを、
